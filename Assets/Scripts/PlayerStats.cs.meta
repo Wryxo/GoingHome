@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfaa6863d6159034c9db05af4681374c
+timeCreated: 1440338665
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Hudba: {fileID: 11478622, guid: 5f831dbbf16b0e4408c96d5f943bbf57, type: 2}
+  - endGamePopup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
